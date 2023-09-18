@@ -15,4 +15,5 @@ Evaluar la conveniencia y priorizar acciones de política pública que permitan 
 ### Descripción archivos
 1. **Proyecto Final - Primera Entrega.pdf**: Archivo donde se encuentra la información solicitada para este primer sprint, incluyendo el objetivo del proyecto, definición de usuarios, mockup inicial, entre otros puntos relevantes.
 2. **dataset_preparado_reducido.csv**: Muestra de datos inicial proporcionada por el cliente. Se presentan los primeros 90,000 registros ya que Github tiene un límite de 25 MBs por archivo.
+3. **Entendimiento_datos_proyecto_final.ipynb**: Notebook en el que se realizaron las tareas correspondientes a análisis de datos.
 
